@@ -64,6 +64,11 @@ var comments = [
         user_id: 1,
         content: 'Merry Christmas !'
     },
+    {
+        id: 9,
+        user_id: 5,
+        content: 'Thank you so much !'
+    },
 ];
 
 // Các bước thực hiện
